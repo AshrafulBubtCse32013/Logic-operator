@@ -1,0 +1,4 @@
+
+ x=0 value for NOT gate=1
+
+ x=1 value for NOT gate=0
